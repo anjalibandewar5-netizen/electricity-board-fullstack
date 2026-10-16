@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chart": "^0.1.2",
+    "react-bootstrap": "^2.10.10",
+    "react-router-dom": "^7.18.4"
+  }
+}

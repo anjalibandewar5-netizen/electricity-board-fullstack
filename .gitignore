@@ -1,0 +1,15 @@
+node_modules/
+**/node_modules/
+myenv/
+**/myenv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+**/.env
+dist/
+**/dist/
+.vite/
+db.sqlite3
